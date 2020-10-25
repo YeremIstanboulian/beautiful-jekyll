@@ -15,10 +15,10 @@ author: Yerem Istanboulian
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -44,7 +44,7 @@ social-network-links:
   github: yeremistanboulian
 #  twitter: daattali
 #  reddit: yourname
-  linkedin: www.linkedin.com/in/yerem-isanboulian"
+  linkedin: www.linkedin.com/in/yerem-istanboulian"
 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"

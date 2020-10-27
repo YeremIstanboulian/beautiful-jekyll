@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The Future of the NBA Three-Point Shot
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+subtitle: UCSB Data Science Club project that uses stochastic modeling, time series, and data analysis to forecast the future trends for the NBA three point shot
+#gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
+#tags: [test]
 comments: true
 ---
 

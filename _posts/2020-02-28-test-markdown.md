@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: The Future of the NBA Three-Point Shot
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -23,5 +23,5 @@ Finally, we used time series forecasting to predict where the percentage of thre
 In conclusion, all three methods suggest the same outcome: While we may continue to see a rise in the number of three point attempts in the short term, we are not far off from seeing a plateau in three point attempts and the arrival at a sort of equilibrium between the percentage of three point shots and the percentage of two point shots taken by NBA teams.
 
 Thank you for reading. For a more detailed report, you can take a look at our github repository here:
-https://github.com/sonalimayer/NBA_threepoint_2020
+[repo](https://github.com/sonalimayer/NBA_threepoint_2020)
 

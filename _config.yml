@@ -17,6 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - NBA 3pt Shot: "https://yeremistanboulian.github.io/2020-10-26-NBA3pt/"
+    - ERA Linear Model: "https://yeremistanboulian.github.io/2020-10-28-ERALinearModel/"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 

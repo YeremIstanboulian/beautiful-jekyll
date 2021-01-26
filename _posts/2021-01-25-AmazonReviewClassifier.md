@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Classifying Amazon Reviews using Naive Bayes
-subtitle: Building a Naive Bayes Model to classify video gmae reviews as positive or negative
+subtitle: Building a Naive Bayes Model to classify video game reviews as positive or negative
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]

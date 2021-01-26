@@ -16,9 +16,9 @@ author: Yerem Istanboulian
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Amazon Review Classifier: "https://yeremistanboulian.github.io/2021-01-25-AmazonReviewClassifier/"
-    - ERA Linear Model: "https://yeremistanboulian.github.io/2020-10-28-ERALinearModel/"
-    - NBA 3pt Shot: "https://yeremistanboulian.github.io/2020-10-26-NBA3pt/"
+    - Amazon Review Classifier: "https://yeremistanboulian.github.io/2020-01-03-AmazonReviewClassifier/"
+    - ERA Linear Model: "https://yeremistanboulian.github.io/2020-01-02-ERALinearModel/"
+    - NBA 3pt Shot: "https://yeremistanboulian.github.io/2020-01-01-NBA3pt/"
     
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
